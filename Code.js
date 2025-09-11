@@ -4,9 +4,7 @@ function myFunction()
   const userId = 'me';
 
   //Change this to the email address you want to delete all emails from
-  //var delAdd1 = "noreply@robinhood.com";
-
-  var delAdd1 = prompt("Input the first address you want to search for: ")
+  var delAdd1 = "noreply@robinhood.com";
   var delAdd2 = "rewards@c.pxsmail.com"
 
   //Takes multiple user inputted addresses and puts it into a options builder so I don't need to hardcode here.
